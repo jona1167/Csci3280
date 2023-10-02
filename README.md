@@ -1,6 +1,6 @@
 # Csci3280
 A course CSCI3280 Intro to Multimedia Systems
-My assignments of this course CSCI3280 taken in 2023.
+My assignments of this course CUHK CSCI3280 taken in 2023.
 
 ASM1 Photomosaic : 95/100
 
